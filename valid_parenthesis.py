@@ -25,3 +25,6 @@ class Solution:
                         return False
                 else:
                     return False
+        
+        return len(result) == 0
+        
