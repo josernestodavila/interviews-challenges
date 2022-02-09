@@ -1,2 +1,2 @@
-# Inteview's Coding Challenges
+# Interview's Coding Challenges
 A set of coding challenges I had to solve on job interviews.
